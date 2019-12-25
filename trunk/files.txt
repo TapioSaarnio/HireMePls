@@ -1,0 +1,77 @@
+=----------------------------------------
+= Ohjelmointi 2, 2019
+=----------------------------------------
+= Katso <a href=".." target="_top">työ vaiheittain</a>
+=
+@https://trac.cc.jyu.fi/projects/ohj2ht/browser/k2019/tjsaarxt = Työ versionhallinnassa
+
+= <h3>Ohjelman avustus</h3>
+!https://tim.jyu.fi/view/kurssit/tie/ohj2/2019k/ht/tjsaarxt = Suunnitelma TIMIssä
+=
+kuvat/kissa.jpg = kuva kissasta
+kuvat/avausikkuna.jpg = kuva avausikkunasta
+kuvat/register.jpg = kuva pääikkunasta
+kuvat/register2.jpg = kuva pääikkunasta
+kuvat/profiili.jpg = yksittäisen jäsenen profiili
+kuvat/profiili2.jpg = yksittäisen jäsenen profiili (korjattu)
+kuvat/Avausikkunascene.JPG = SceneBuilder kuva avausikkunasta
+kuvat/PaaikkunaG.JPG = SceneBuilder kuva pääikkunasta
+kuvat/Pop-UpSceneBuilder.JPG = SceneBuilder kuva Pop-Up ikkunasta
+!https://tim.jyu.fi/view/kurssit/tie/ohj2/2019k/ht/tjsaarxt = Suunnitelma timissä
+=
+=<h3>Ajettava ohjelma</h3>
+TravellersClub/src/Kerhorekisteri/rekisteri.css = rekisteri css
+TravellersClub/src/Kerhorekisteri/RekisteriMain.java = Pääjava
+jar/Rekisteri.jar = Ajettava jar tiedosto
+jar/TravellersClub.jar = Ajettava mikroluokassa toimiva jar tiedosto
+jar/TravellersClub/nimet.dat = tiedosto jar fileen
+jar/TravellersClub/vierailut.dat = tiedosto jar fileen
+jar/TravellersClub/vierailut.bak = tiedosto jar fileen
+jar/TravellersClub/nimet.bak = tiedosto jar fileen
+=
+=<h3>Käyttöliittymän ulkoasu JavaFX:llä</h3>
+TravellersClub/src/Kerhorekisteri/popupGController.java = Profiilin controlleri
+TravellersClub/src/Kerhorekisteri/popupG.fxml = profiilin fxml
+TravellersClub/src/Kerhorekisteri/Avaus.fxml = Avausikkunan näkymä
+TravellersClub/src/Kerhorekisteri/RekisteriGUIView.fxml = Pääikkunan näkymä
+TravellersClub/src/Kerhorekisteri/RekisteriGUIController.java = Pää ja avausikkunan controlleri
+TravellersClub/src/Kerhorekisteri/VisitInfo.fxml = Vierailun näkymä
+TravellersClub/src/Kerhorekisteri/VisitInfoGController.java = Vierailun controlleri
+=
+=<h3>Tietorakenteiden käsittely koodissa</h3>
+TravellersClub/src/Luokat/Jasen.java
+TravellersClub/src/Luokat/DobCheck.java
+TravellersClub/src/Luokat/Jasenet.java = jasenet luokka
+TravellersClub/src/Luokat/MaatInfo.java = luokka vierailua varten
+TravellersClub/src/Luokat/Rekisteri.java = rekisteri luokka
+TravellersClub/src/Luokat/MaaInfot.java
+TravellersClub/src/Luokat/SailoException.java 
+TravellersClub/TravellersClub/nimet.dat
+TravellersClub/TravellersClub/nimet.bak
+TravellersClub/TravellersClub/vierailut.dat
+TravellersClub/TravellersClub/vierailut.bak
+=
+=<h3>Tietokanta-luokat</h3>
+KuvatCRC/JasenCRC.JPG  = CRC kortti
+KuvatCRC/MaaInfotCRC.JPG = CRC kortti
+KuvatCRC/MaatInfoCRC.JPG = CRC kortti
+KuvatCRC/Kaavio.JPG = kaavio luokista
+KuvatCRC/RekisteriCRC.JPG = CRC kortti
+KuvatCRC/JasenetCRC.jpg = CRC kortti 
+KuvatCRC/MaatCRC.JPG = CRC kortti
+KuvatCRC/NayttoCRC.JPG = CRC kortti
+KuvatCRC/MaaCRC.JPG = CRC kortti
+=
+=<h3>Muita tiedostoja</h3
+TravellersClub/.classpath = classpath
+TravellersClub/.project = projekti
+TravellersClub/build.fxbuild
+
+
+
+
+
+
+
+
+

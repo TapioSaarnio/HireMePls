@@ -1,0 +1,18 @@
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.exe
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.pdb
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csprojAssemblyReference.cache
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csproj.CoreCompileInputs.cache
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.exe
+C:/Users/Tapio Saarnio/source/repos/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.pdb
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csprojAssemblyReference.cache
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csproj.CoreCompileInputs.cache
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.exe
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.pdb
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.exe
+C:/Users/Tapio Saarnio/Desktop/tjsaarxt-ht/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.pdb
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.exe
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/bin/Debug/HARJOITUSTYÖ.pdb
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csprojAssemblyReference.cache
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.csproj.CoreCompileInputs.cache
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.exe
+/Users/tapiosaarnio/Desktop/harjoitustyömactjsaarxt/HARJOITUSTYÖ/HARJOITUSTYÖ/obj/x86/Debug/HARJOITUSTYÖ.pdb
